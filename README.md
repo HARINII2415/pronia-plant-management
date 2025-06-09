@@ -48,9 +48,5 @@ To streamline the plant care process by providing a centralized platform that he
 
 ---
 
-## 🚀 How to Run the Project
 
-```bash
-git clone https://github.com/HARINII2415/pronia-plant-management.git
-cd pronia-plant-management
-python app.py
+
